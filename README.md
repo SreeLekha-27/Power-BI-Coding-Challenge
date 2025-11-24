@@ -19,21 +19,21 @@ This project is a complete end-to-end Power BI analytics solution built using a 
 
 ##  Key Features
 
-### ** Sales & Pricing Insights**
+###  Sales & Pricing Insights**
 - Trend line showing price vs sales pattern  
 - Category-level analysis to understand premium segment performance  
 - Brand-wise contribution and comparison  
 
-### ** Stock & Availability**
+###  Stock & Availability**
 - Stock levels by brand 
 - Indicators identifying products with low stock or supply gaps  
 
-### ** Advanced KPI Indicators**
+###  Advanced KPI Indicators**
 - Sales growth %  
 - Price performance trend  
 - Stock availability KPI  
 
-### ** Advanced DAX Measures**
+###  Advanced DAX Measures**
 - Time intelligence (MTD, QTD, YTD)  
 - Last month vs current month comparison  
 - Growth % calculation  

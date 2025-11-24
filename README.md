@@ -34,7 +34,7 @@ This project is a complete end-to-end Power BI analytics solution built using a 
 - Stock availability KPI  
 
 ###  Advanced DAX Measures
-- Time intelligence (MTD, QTD, YTD)  
+- Time intelligence (YTD)  
 - Last month vs current month comparison  
 - Growth % calculation  
 - Ranking (Top N perfumes, Top brands, etc.)  
@@ -53,7 +53,7 @@ This project is a complete end-to-end Power BI analytics solution built using a 
 1. **Data Import & Cleaning**  
 2. **Transform data in Power Query**  
 3. **Create Fact & Dimension tables**  
-4. **Build relationships (Star Schema)**  
+4. **Build relationships**  
 5. **Create advanced DAX measures**  
 6. **Design visual dashboards**  
 7. **Generate insights & recommendations**
@@ -66,7 +66,7 @@ This project is a complete end-to-end Power BI analytics solution built using a 
 - Category price variation  
 - Premium vs standard category performance  
 - Stock status visualization  
-- KPIs for sales growth, price trend & target comparison  
+- KPIs for sales growth 
 
 ---
 
